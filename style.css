@@ -207,4 +207,9 @@ input {
         width: 264px;
         height: 57px;
     }
+    .header a:hover {
+        color: #b89e14;
+        font-size: 12px;
+        transition: 150ms ease-in-out;
     }
+}
